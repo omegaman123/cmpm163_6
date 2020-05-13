@@ -1,4 +1,4 @@
-# cmpm163_5
+# cmpm163_6
 
 
 example texture:
